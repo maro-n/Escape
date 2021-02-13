@@ -1,0 +1,28 @@
+﻿2016/11/09 10:46:40 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D PRODUCT_NAME=ChallengeBasic /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+     1>src\main.cpp(657): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1084): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1089): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1100): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1117): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1132): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1140): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1144): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1148): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1152): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1156): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1164): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+     1>src\main.cpp(1168): warning C4305: '引数' : 'double' から 'const float' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         コード生成しています。
+         コード生成が終了しました。
+         ChallengeBasic.vcxproj -> C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.exe
+     1>プロジェクト "C:\Users\vantan\Desktop\過去作品\PS14B_栗原昇平\ChallengeBasic.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:06.26

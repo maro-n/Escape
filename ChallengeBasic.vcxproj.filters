@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="src\appEnv.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\appVisual.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\camera.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\defines.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\fileUtil.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\glBuffer.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\glfwWindow.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graph.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\png.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\random.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\texture.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="src\vector.hpp">
+      <Filter>Lib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{64bf6fe1-3a56-4217-b142-c4b8acad9b8f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+  </ItemGroup>
+</Project>
